@@ -33,7 +33,7 @@ python main.py \
   --archive UEA \
   --data_path /path/to/Multivariate2018_arff \
   --label_noise_type 0 \
-  --label_noise_rate 0.3
+  --label_noise_rate 0.2
 
 # UCR univariate dataset
 python main.py \
